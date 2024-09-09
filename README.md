@@ -12,16 +12,16 @@ This repository contains a Python-based online banking application that allows s
   
 # Functionalities
 Superuser Features:
--- View Superuser Details: The application allows superusers to view all related account details stored in superAccount.txt.
--- Manage Admin Accounts: Superusers have the ability to add, edit, or remove admin accounts as needed.
+- View Superuser Details: The application allows superusers to view all related account details stored in superAccount.txt.
+- Manage Admin Accounts: Superusers have the ability to add, edit, or remove admin accounts as needed.
 
 Admin Features:
--- View Admin Details: Administrators can access their account information stored in adminAccount.txt.
--- Manage User Accounts: Admins are responsible for managing user accounts, including resetting passwords, viewing transactions, and approving banking requests.
+- View Admin Details: Administrators can access their account information stored in adminAccount.txt.
+- Manage User Accounts: Admins are responsible for managing user accounts, including resetting passwords, viewing transactions, and approving banking requests.
 
 User Features:
--- Login and Account Details: Users can log in with their credentials to view their account balance, recent transactions, and other personal details.
--- Transaction Management: Perform banking operations such as deposits, withdrawals, and transfers between accounts.
+- Login and Account Details: Users can log in with their credentials to view their account balance, recent transactions, and other personal details.
+- Transaction Management: Perform banking operations such as deposits, withdrawals, and transfers between accounts.
 
 # Conclusion
 This online banking application provides basic functionality for managing accounts, making transactions, and ensuring security through role-based access.
